@@ -1,0 +1,30 @@
+.container {
+  margin: 2rem;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+
+  .btn {
+    width: 70px;
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+  }
+
+  .btn-green {
+    background: green;
+  }
+
+  .btn-grey {
+    background: grey;
+    color: antiquewhite;
+  }
+
+  .btn-red {
+    background: #f38080;
+  }
+
+  .btn-yellow {
+    background: #f3f34c;
+  }
+}
